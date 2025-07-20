@@ -1,0 +1,4 @@
+Test Forecast Horizon = t+3
+Test R²   = 0.7584
+Test RMSE = 316.20
+Test MAE  = 231.83

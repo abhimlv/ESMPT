@@ -1,0 +1,27 @@
+TCN
+Forecast Horizon = t+1
+Train R²   = 0.9953
+Train RMSE = 186.12
+Train MAE  = 136.56
+Forecast Horizon = t+3
+Train R²   = 0.9910
+Train RMSE = 257.10
+Train MAE  = 189.87
+Forecast Horizon = t+7
+Train R²   = 0.9831
+Train RMSE = 351.86
+Train MAE  = 257.75
+
+Test Forecast Horizon = t+1
+Test R²   = 0.8767
+Test RMSE = 225.27
+Test MAE  = 169.23
+Test Forecast Horizon = t+3
+Test R²   = 0.7584
+Test RMSE = 316.20
+Test MAE  = 231.83
+Test Forecast Horizon = t+7
+Test R²   = 0.5483
+Test RMSE = 434.50
+Test MAE  = 331.63
+
