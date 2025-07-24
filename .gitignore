@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Ignore model and data artifacts if too large (optional)
+*.h5
+*.keras
+*.pkl
+*.csv
+
+# Ignore VSCode and system files
+.vscode/
+.DS_Store
+App/venv_3_11/
