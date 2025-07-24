@@ -1,4 +1,0 @@
-Forecast Horizon = t+1
-Train R²   = -0.7081
-Train RMSE = 3536.32
-Train MAE  = 2853.52
