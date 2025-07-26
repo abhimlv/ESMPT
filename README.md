@@ -34,7 +34,7 @@ This project compares the predictive performance of **ARIMA**, **LSTM**, and **T
 
 ---
 
-## ⚙️ Modeling Approach
+## 🧪 Modeling Approach
 
 - **Prediction Targets**:
   - t+1
